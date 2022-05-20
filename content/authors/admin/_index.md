@@ -1,11 +1,15 @@
 ---
 title: Sidharth Mahant
 role: Master's student at Dalhousie University. Ex-Senior Analyst at Capgemini
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Data Science
+  - Machine Learning and Artificial Intelligence
+  - Data Science and Information Visualization
+  - Computer Vision techniques and Deep Learning models
+  - Trend Analysis and Predictive Analytics
+  - Remote Process Automation
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,10 +46,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-<!--StartFragment-->
-
-Pursuing a master's degree in computer science and three years of professional experience in data analysis and data driven model definition for actionable insights. I have a good mathematical foundation as well as analytical and problem-solving abilities. I'm particularly skilled at \*\*automating back-end processes\*\*, \*\*Remote Process Automation\*\*, gathering raw data via APIs, and defining Machine Learning models with visual animations. My experience at Capgemini has equipped me to perform both individually and as part of a team.
-
-<!--EndFragment-->
+Pursuing a master's degree in computer science and three years of professional experience in **Python Development** and **data driven model definition** for actionable insights. I have a good mathematical foundation as well as analytical and problem-solving abilities. I'm particularly skilled at **automating back-end processes**, **Remote Process Automation,** gathering raw data via **APIs,** and defining **Machine Learning** models with visual animations. My experience at **Capgemini** has equipped me to perform both individually and as part of a team.
 
 <!--EndFragment-->
