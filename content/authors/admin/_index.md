@@ -1,7 +1,7 @@
 ---
 title: Sidharth Mahant
 role: Master's student at Dalhousie University. Ex-Senior Analyst at Capgemini
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
