@@ -1,50 +1,34 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Professional Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
+active: true
 date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Analyst
     company: Capgemini
-    company_url: ''
+    company_url: ""
     company_logo: Capgemini_201x_logo
     location: Mumbai, India
-    date_start: '2019-11-19'
-    date_end: '2021-08-09'
-    description: |2-
+    date_start: 2019-11-19
+    date_end: 2021-08-09
+    description: |-2
         Responsibilities include:
         
         * Analysing
         * Modelling
         * Deploying
-
   - title: Analyst
     company: Capgemini
-    company_url: ''
+    company_url: ""
     company_logo: Capgemini_201x_logo
     location: Mumbai, Inida
-    date_start: '2018-08-08'
-    date_end: '2019-11-19'
+    date_start: 2018-08-08
+    date_end: 2019-11-19
     description: Taught electronic engineering and researched semiconductor physics.
-
+widget_id: experience
+headless: true
+weight: 40
+title: Professional Experience
+subtitle: null
 design:
-  columns: '2'
+  columns: "2"
 ---
