@@ -37,6 +37,6 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-Pursuing a master's degree in computer science and three years of professional experience in **Python Development** and **data driven model definition** for actionable insights. I have a good **mathematical foundation** as well as analytical and problem-solving abilities. I'm particularly skilled at **automating back-end processes**, **Remote Process Automation**, **gathering raw data via APIs** and defining **Machine Learning** models with visual animations. My experience at **Capgemini** has equipped me to perform both individually and as part of a team.
+Pursuing a master's degree in computer science and three years of professional experience in **Python Development** and test **data driven model definition** for actionable insights. I have a good **mathematical foundation** as well as analytical and problem-solving abilities. I'm particularly skilled at **automating back-end processes**, **Remote Process Automation**, **gathering raw data via APIs** and defining **Machine Learning** models with visual animations. My experience at **Capgemini** has equipped me to perform both individually and as part of a team.
 
 <!--EndFragment-->
